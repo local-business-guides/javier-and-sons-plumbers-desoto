@@ -23,6 +23,9 @@
 - [Trusted Plumber Tx Desoto for DeSoto Homeowners](https://local-business-guides.github.io/javier-and-sons-plumbers-desoto/trusted-plumber-tx-desoto/): Trusted Plumber Tx Desoto guidance for a clearer plumbing visit in DeSoto, TX. Prepare your questions, then call Javier & Sons Plumbers to discuss your needs.
 - [Experienced Plumber Tx Desoto for Your Home](https://local-business-guides.github.io/javier-and-sons-plumbers-desoto/experienced-plumber-tx-desoto/): Experienced Plumber Tx Desoto help to clarify your plumbing options in DeSoto, TX. Prepare for a useful conversation and call Javier & Sons Plumbers today.
 
+## Newsroom
+- [Javier & Sons Plumbers Shares DeSoto Guide and Related Media](https://local-business-guides.github.io/javier-and-sons-plumbers-desoto/news/2026-11-10-javier-sons-plumbers-shares-desoto-guide-and/): Javier & Sons Plumbers published a guide on Plumber In DeSoto TX, along with a YouTube video, a podcast episode and SoundCloud audio. (2026-11-10)
+
 ## Pages
 - [Plumber in DeSoto, Texas](https://local-business-guides.github.io/javier-and-sons-plumbers-desoto/): Get straightforward plumbing help and a clear next step from Javier & Sons Plumbers in DeSoto. Call +1469-423-8182.
 - [About Javier & Sons Plumbers](https://local-business-guides.github.io/javier-and-sons-plumbers-desoto/about/): About Javier & Sons Plumbers, DeSoto.
@@ -30,3 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/javier-and-sons-plumbers-desoto/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/javier-and-sons-plumbers-desoto/news/rss.xml)
+- [Main resource site](https://javier-sons-desoto-plumbing.localbusinesses1.chatgpt.site)

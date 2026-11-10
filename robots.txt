@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/javier-and-sons-plumbers-desoto/sitemap.xml
+Sitemap: https://local-business-guides.github.io/javier-and-sons-plumbers-desoto/news-sitemap.xml
